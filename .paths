@@ -1,0 +1,12 @@
+/usr/lib/ocaml
+tests
+.git/branches
+.git/logs
+.git/logs/refs
+.git/logs/refs/heads
+.git/objects
+.git/objects/info
+.git/objects/pack
+.git/refs
+.git/refs/heads
+.git/refs/tags
